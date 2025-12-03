@@ -13,6 +13,10 @@
 # ---
 
 # %% [markdown]
+# 
+# # DEMO NOTEBOOK that will get included with the team submission.
+# 
+# 
 # # World Bank Labor Force Analysis
 # 
 # This notebook downloads World Bank labor force participation data and creates

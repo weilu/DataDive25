@@ -1,6 +1,6 @@
 ---
-title: "Education & Economic Growth"
-subtitle: "World Bank Data Analysis"
+title: "DEMO PRESENTATION"
+subtitle: "DEMO PRESENTATION"
 author: "Sample Team "
 date: "2025"
 format:
@@ -12,6 +12,8 @@ format:
 ---
 
 ## Overview
+
+PRESENTATION DEMO
 
 This presentation explores the relationship between **education levels** and **economic growth indicators** using World Bank data.
 
