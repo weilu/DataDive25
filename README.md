@@ -3,8 +3,7 @@ World Bank 2025 DataDive Github repository
 
 ## Overview
 
-Visit www.dc2.org/datadive for more details on the day of events!
-
+Visit www.dc2.org/datadive for details on the challenge questions, suggested data, and day of schedule!
 ## Team Projects
 
 This repository includes an automated GitHub Pages deployment system for team projects. Each team can create their own folder in the `Team_Projects/` directory and add markdown files that will be automatically converted to HTML pages.
