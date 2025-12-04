@@ -16,9 +16,9 @@ The tool is built for policymakers, researchers, and analysts who need a clear, 
 
 ## Team Members
 
-- Mandy Sun  
-- Wei Lu  
-- Niraj Bajpaii  
+- Mandy Sun
+- Wei Lu
+- Niraj Bajpai
 
 ## Challenge Category
 
@@ -43,7 +43,9 @@ Users can explore gender representation across sectors, professional vs manageri
 
 ## Screenshot
 
-![Screenshot](table4.png)
+![Screenshot](pub-sec-jobs.png)
+
+![Screenshot](pub-sec-jobs-2.png)
 
 ## Code
 
